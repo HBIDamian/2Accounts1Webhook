@@ -1,4 +1,4 @@
-# MultipleAccounts1DiscordWebhook
+# 2(+)Accounts1Webhook
 
 Allows a user to post webhooks with different set accounts.   
 It literally is some random code I threw together years back without a care in the world. 
